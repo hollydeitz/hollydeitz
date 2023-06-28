@@ -2,7 +2,6 @@
 - 👀 I’m interested in doing silly stuff with AI
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate on whatever I can
-- 📫 How to reach me aiathollydeitzdotcom
 
 <!---
 hollydeitz/hollydeitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
